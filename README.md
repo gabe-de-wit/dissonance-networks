@@ -1,6 +1,6 @@
-# dissonance-networks
+# Cognitive Dissonance Reduction Networks
 
-Cognitive dissonance reduction networks. Implementation of the algorithms in Shultz & Lepper (1996).
+R implementation of the algorithms in Shultz & Lepper (1996).
 
 ## References
 

@@ -117,3 +117,4 @@ ggplot(x, aes(x = cycle, y = activation, color = name)) +
 #   the scale will need to be fixed (not dependent on network)
 #   and clearly communicate which values of consonance indicate a stable
 #   set of beliefs and which indicate an unstable set
+
